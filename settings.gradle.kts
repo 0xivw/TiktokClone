@@ -23,3 +23,4 @@ rootProject.name = "TiktokClone"
 include(":app")
 include(":core")
 include(":data")
+include(":domain")
