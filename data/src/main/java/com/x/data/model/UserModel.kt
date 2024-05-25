@@ -1,5 +1,7 @@
 package com.x.data.model
 
+import com.x.core.extension.formattedCount
+
 data class UserModel(
     val userId: Long,
     val uniqueUserName: String,
